@@ -13,7 +13,8 @@ It is the companion code for the paper:
 > [scholarship.claremont.edu/codee/vol20/iss2/1](https://scholarship.claremont.edu/codee/vol20/iss2/1/)
 > · DOI: [10.5642/codee.QKJJ1808](https://doi.org/10.5642/codee.QKJJ1808)
 
->[!WARNING] To reset this project for students, you'll need to find the seed choices in the section **Fitting the model** and swap the commented-out line.
+> [!WARNING]
+> To reset this project for students, you'll need to find the seed choices in the section **Fitting the model** and swap the commented-out line.
 
 ## What it does
 
